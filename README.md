@@ -10,20 +10,20 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Toxic1239/Queen-RiasV3_">
-    <img src="https://img.shields.io/badge/Author-Toxxic%20Boy-black?style=for-the-badge&logo=github" alt="Author">
+  <a href="https://github.com/GUEVE-TECH248/GUEVE-MD-V1.0.git_">
+    <img src="https://img.shields.io/badge/Author-gueve%20tech-black?style=for-the-badge&logo=github" alt="Author">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Toxic1239/followers">
-    <img src="https://img.shields.io/github/followers/Toxic1239?color=blue&style=flat-square" alt="Followers">
+  <a href="https://github.com/GUEVE-TECH248/GUEVE-MD-V1.0.gitfollowers">
+    <img src="https://img.shields.io/github/followers/gueve1239?color=blue&style=flat-square" alt="Followers">
   </a>
-  <a href="https://github.com/Toxic1239/Queen-RiasV3_/stargazers">
+  <a href="https://github.com/GUEVE-TECH248/GUEVE-MD-V1.0.stargazers">
     <img src="https://img.shields.io/github/stars/Toxic1239/Queen-RiasV3_?color=red&style=flat-square" alt="Stars">
   </a>
-  <a href="https://github.com/Toxic1239/Queen-RiasV3_/network/members">
-    <img src="https://img.shields.io/github/forks/Toxic1239/Queen-RiasV3_?color=green&style=flat-square" alt="Forks">
+  <a href="https://github.com/GUEVE-TECH248/GUEVE-MD-V1.0.git/network/members">
+    <img src="https://github.com/GUEVE-TECH248/GUEVE-MD-V1.0.?color=green&style=flat-square" alt="Forks">
   </a>
   <a href="https://github.com/Toxic1239/Queen-RiasV3_/watchers">
     <img src="https://img.shields.io/github/watchers/Toxic1239/Queen-RiasV3_?label=Watchers&color=yellow&style=flat-square" alt="Watching">
